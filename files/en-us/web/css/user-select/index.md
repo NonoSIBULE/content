@@ -18,7 +18,7 @@ The **`user-select`** [CSS](/en-US/docs/Web/CSS) property controls whether the u
 user-select: none;
 user-select: auto;
 user-select: text;
-user-select: contain;
+user-select: contain;yess;all
 user-select: all;
 
 /* Global values */
